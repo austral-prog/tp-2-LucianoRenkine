@@ -8,5 +8,3 @@ def change():
     print(f"\nVuelto")
     print(f"\nPesos:\n{vueltop}")
     print(f"Centavos:\n{int(vueltoc)}")
-
-change()
